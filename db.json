@@ -1,0 +1,39 @@
+{
+    "workouts": [
+      {
+        "id": 1,
+        "name": "High-Intensity Interval Training (HIIT)",
+        "image": "https://media.istockphoto.com/id/1305549557/photo/fit-hispanic-woman-in-activewear-exercising-at-the-gym.jpg?s=612x612&w=0&k=20&c=ucd0sF0rK5HboyBPh045-eDRPOerGaV25blPvJ5CP_4=",
+        "description": "HIIT workouts involve short bursts of intense exercises followed by brief rest or low-intensity recovery periods. For example, you could do 30 seconds of jumping jacks, followed by 30 seconds of rest, and then repeat the cycle for 15-20 minutes. HIIT is excellent for burning calories, improving cardiovascular health, and increasing endurance.",
+        "status": false
+      },
+      {
+        "id": 2,
+        "name": "Bodyweight Circuit Workout",
+        "image": "https://prod-ne-cdn-media.puregym.com/media/810213/bodyweight.jpg?quality=80",
+        "description": "This workout utilizes your body weight for resistance. A circuit typically includes exercises like push-ups, squats, lunges, planks, and burpees. Perform each exercise for 45 seconds, followed by 15 seconds of rest. Complete the entire circuit, rest for 1-2 minutes, and then repeat for 3-4 rounds. Bodyweight circuits improve overall strength, endurance, and flexibility.",
+        "status": false
+      },
+      {
+        "id": 3,
+        "name": "Yoga and Stretching Routine",
+        "image": "https://media.post.rvohealth.io/wp-content/uploads/2019/10/cobra-pose-yoga-back-bend-1200x628-facebook-1200x628.jpg",
+        "description": "Yoga combines physical postures, breathing exercises, and meditation. A typical yoga routine includes poses like downward dog, warrior poses, and child's pose. Incorporate stretching exercises to improve flexibility and balance. Yoga enhances flexibility, balance, and mental relaxation.",
+        "status": false
+      },
+      {
+        "id": 4,
+        "name": "Circuit Training with Weights",
+        "image": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/05/shutterstock_413984332.jpg?fit=1000%2C618&ssl=1",
+        "description": "Use dumbbells or kettlebells for this workout. Create a circuit with exercises like bicep curls, shoulder presses, squats with weights, and bent-over rows. Perform 3 sets of 12-15 repetitions for each exercise with minimal rest between sets. Circuit training with weights builds muscle strength and endurance.",
+        "status": false
+      },
+      {
+        "id": 5,
+        "name": "Outdoor Cardio Workout",
+        "image": "https://assets.speakcdn.com/assets/2400/outdoor-cardio-v2-640-290-blog-hero-image-01-min.png",
+        "description": "Take your workout outdoors for a refreshing experience. Jog or briskly walk in the park, interspersed with bodyweight exercises like push-ups, lunges, and jumping jacks. Use a park bench for step-ups and tricep dips. Aim for 30 minutes of continuous activity. Outdoor workouts provide fresh air, boost mood, and enhance cardiovascular health.",
+        "status": false
+      }
+    ]
+  }
